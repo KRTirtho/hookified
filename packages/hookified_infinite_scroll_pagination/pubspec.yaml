@@ -1,7 +1,12 @@
 name: hookified_infinite_scroll_pagination
-description: A new Flutter package project.
-version: 0.0.1
-homepage: https://github.com/KRTirtho/hookified
+description: flutter_hooks support for infinite_scroll_pagination
+version: 0.1.0
+homepage: https://github.com/KRTirtho/hookified/tree/main/packages/hookified_infinite_scroll_pagination
+issue_tracker: https://github.com/KRTirtho/hookified/issues
+
+publish_to: pub.dev
+
+repository: git+http://github.com/KRTirtho/hookified
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
