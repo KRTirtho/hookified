@@ -1,0 +1,10 @@
+name: hookified
+
+packages:
+  - packages/**
+
+ignore:
+  - package/example/
+
+ide:
+  intellij: false

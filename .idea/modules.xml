@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_hook_utils/melos_flutter_hook_utils.iml" filepath="$PROJECT_DIR$/packages/flutter_hook_utils/melos_flutter_hook_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/hookified_infinite_scroll_pagination/melos_hookified_infinite_scroll_pagination.iml" filepath="$PROJECT_DIR$/packages/hookified_infinite_scroll_pagination/melos_hookified_infinite_scroll_pagination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/hookified_package_info_plus/melos_hookified_package_info_plus.iml" filepath="$PROJECT_DIR$/packages/hookified_package_info_plus/melos_hookified_package_info_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/hookified_palette_generator/melos_hookified_palette_generator.iml" filepath="$PROJECT_DIR$/packages/hookified_palette_generator/melos_hookified_palette_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/hookified_scroll_to_index/melos_hookified_scroll_to_index.iml" filepath="$PROJECT_DIR$/packages/hookified_scroll_to_index/melos_hookified_scroll_to_index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/hookified_shared_preferences/melos_hookified_shared_preferences.iml" filepath="$PROJECT_DIR$/packages/hookified_shared_preferences/melos_hookified_shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_melos.iml" filepath="$PROJECT_DIR$/melos_melos.iml" />
+    </modules>
+  </component>
+</project>
