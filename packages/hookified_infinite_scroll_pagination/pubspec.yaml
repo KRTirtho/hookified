@@ -1,6 +1,6 @@
 name: hookified_infinite_scroll_pagination
 description: flutter_hooks support for infinite_scroll_pagination
-version: 0.1.0
+version: 0.2.0
 homepage: https://github.com/KRTirtho/hookified/tree/main/packages/hookified_infinite_scroll_pagination
 issue_tracker: https://github.com/KRTirtho/hookified/issues
 
@@ -14,9 +14,9 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_hooks: ^0.18.4
-  infinite_scroll_pagination: ^3.2.0
+  infinite_scroll_pagination: ^4.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.2
